@@ -4,7 +4,7 @@
 
 ### Also Check out my other works on this Github or on My Discord. 
 
-[My Discord Server for any Support](https://discord.gg/PjKXNkFyHd)
+## [My Discord Server for any Support](https://discord.gg/PjKXNkFyHd)
 
 #### All credit goes to the Creator of this script and not me. This feature was requested by someone, and hence, I thought why not to share it with other people too. 
 
